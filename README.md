@@ -89,3 +89,5 @@ This project is a Flask-based API for image classification using a YOLOv8 model.
     }
     ```
 
+### UUID Generation
+For generating UUIDs, you can use the following link: [UUID Generator](https://www.uuidgenerator.net/version4).
