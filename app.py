@@ -24,7 +24,7 @@ UPLOAD_FOLDER = "images/"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 # Middleware for API key verification
-API_KEY = 'ccf036fe-0697-4781-9ead-c0149408b4d3'  # Replace with your actual API key
+API_KEY = 'your_api_key'  # Replace with your actual API key
 
 @app.before_request
 def require_api_key():
